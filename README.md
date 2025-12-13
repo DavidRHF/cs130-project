@@ -34,7 +34,7 @@ The data set I found includes some very interesting points. It summarizes data f
 ![Description of Visualization](SongLengthPopularity.png)
 The first visualization I was curious about was the comparison between popularity and song length. Would songs be less popular or more popular the longer they are? Before looking at the data, I imagined that the 2 to 4 minute range would be the most popular length for music, with the extremes of the data being less popular. It turns out that it varies a lot. The 2 to 3 minute mark holds the highest and the lowest popularity score, making it the best and the worst. Suprisingly, some longer songs are also very popular.
 
-![Description of Visualization](TopListenedSongs.png)
+![Description of Visualization](MostListened.png)
 The second visualization features the top 10 most listened to genres on spotify. With so many different types of music, I was curious as to which one was the favorite. My original guess was Pop or Hip-hop but the results were much different than I was expecting. It turns out that the top 3 were Metal, Jazz, and Hip-Hop. The results were very close for the top 10, with most being over 7000 listeners.
 
 ![Tempo Visualization](Screenshot2025-12-12230124.png)
