@@ -37,7 +37,7 @@ The first visualization I was curious about was the comparison between popularit
 ![Description of Visualization](TopListenedSongs.png)
 The second visualization features the top 10 most listened to genres on spotify. With so many different types of music, I was curious as to which one was the favorite. My original guess was Pop or Hip-hop but the results were much different than I was expecting. It turns out that the top 3 were Metal, Jazz, and Hip-Hop. The results were very close for the top 10, with most being over 7000 listeners.
 
-![Description of Visualization](TempoGenre.png)
+![Description of Visualization](Screenshot 2025-12-12 230124.png)
 The last and coolest visualization features genres being compared to most used BPM (Beats per minute) and the count of the song. This essentially tracks how fast each genres music is. Music typically sits around 60 to 180 BPM. I a\had no expectations going into this visualization, so the results were very interesting. It turns out that EDM and classical music showed the slowest BPM out of all genres. Suprisingly, Pop and Country sat at the highest BPM. 
 
 
