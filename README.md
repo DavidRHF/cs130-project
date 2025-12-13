@@ -31,13 +31,13 @@ The recently released spotify wrapped has inspired me to look into datasets surr
 
 The data set I found includes some very interesting points. It summarizes data from around 85,000 different tracks, with interesting statistics such as popularity scores for songs, song duration, and danceability scores. This data set includes songs and artists from 2015-2025, so the list may not be very popular by todays metrics. Either way, I wanted to find some data comparisons that are interesting.
 
-![Description of Visualization](SongLengthPopularity.png)
+![Description of Visualization](images/.png)
 The first visualization I was curious about was the comparison between popularity and song length. Would songs be less popular or more popular the longer they are? Before looking at the data, I imagined that the 2 to 4 minute range would be the most popular length for music, with the extremes of the data being less popular. It turns out that it varies a lot. The 2 to 3 minute mark holds the highest and the lowest popularity score, making it the best and the worst. Suprisingly, some longer songs are also very popular.
 
-![Description of Visualization](MostListened.png)
+![Description of Visualization](images/MostListened.png)
 The second visualization features the top 10 most listened to genres on spotify. With so many different types of music, I was curious as to which one was the favorite. My original guess was Pop or Hip-hop but the results were much different than I was expecting. It turns out that the top 3 were Metal, Jazz, and Hip-Hop. The results were very close for the top 10, with most being over 7000 listeners.
 
-![Tempo Visualization](Screenshot2025-12-12230124.png)
+![Tempo Visualization](images/Tempo.png)
 The last and coolest visualization features genres being compared to most used BPM (Beats per minute) and the count of the song. This essentially tracks how fast each genres music is. Music typically sits around 60 to 180 BPM. I a\had no expectations going into this visualization, so the results were very interesting. It turns out that EDM and classical music showed the slowest BPM out of all genres. Suprisingly, Pop and Country sat at the highest BPM. 
 
 
