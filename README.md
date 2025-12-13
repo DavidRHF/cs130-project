@@ -14,7 +14,11 @@ This dataset wasn't very difficult to
 
 One of the major assumptions I had to make was for the popularity scores. On the dataset the popularity scores varied widely, yet many stay within the same 40-60 range. Due to this, my visualizations got a little clunky with the popularity numbers. My first visualization chart reflects this, having the numbers range from 47.25 to 49.00 even when I coded it to be from 0 to 100. It's a little confusing, but I suggest to just view it as if it were from 0 to 100.
 
-The energy dataset was a bit confusing as to what it actually means. There is already a loudness set, a danceability set, and a key set. With these already being there, the energy set seems like it doesn't need to be included. Due to this, I viewed the energy set as 
+The Y-axis for the BPM chart also needs to be viewed in the same light as the popularity visualization. The BPMs are supposed to range from 60 to 200, yet they show as 129.2 to 130.8. In this case, see the range as 60 to 200 for it to make more sense.
+
+The energy dataset was a bit confusing as to what it actually means. There is already a loudness set, a danceability set, and a key set. With these already being there, the energy set seems like it doesn't need to be included. Due to this, I viewed the energy set as a mood set. This way, it brings more meaning to the data set, rather than it just being a throw in.
+
+
 
 #### Limitations
 
@@ -35,7 +39,7 @@ The first visualization I was curious about was the comparison between popularit
 The second visualization features the top 10 most listened to genres on spotify. With so many different types of music, I was curious as to which one was the favorite. My original guess was Pop or Hip-hop but the results were much different than I was expecting. It turns out that the top 3 were Metal, Jazz, and Hip-Hop. The results were very close for the top 10, with most being over 7000 listeners.
 
 
-The last visualization features
+The last and coolest visualization features genres being compared to most used BPM (Beats per minute) and the count of the song. This essentially tracks how fast each genres music is. Music typically sits around 60 to 180 BPM. I a\had no expectations going into this visualization, so the results were very interesting. It turns out that EDM and classical music showed the slowest BPM out of all genres. Suprisingly, Pop and Country sat at the highest BPM. 
 
 
 
